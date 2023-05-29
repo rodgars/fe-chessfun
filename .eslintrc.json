@@ -14,8 +14,7 @@
       // add your rules here
       "no-unused-vars": "warn",
       "quotes": ["error", "single"],
-      "indent": ["error", 2],
-      "react/jsx-uses-vars": "error"
+      "indent": ["error", 2]    
     }
   }
   
